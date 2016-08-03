@@ -1,0 +1,11 @@
+﻿2016-07-18 03:54:22.141869|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.4 (2016-04-25 15:16:45)
+2016-07-18 03:54:22.142115|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016 x86_64 Binary: 64bit
+2016-07-18 03:54:22.142192|WARNING |ServerLibPriv |   |The system locale is set to "C" this can cause unexpected behavior. We advice you to repair your locale!
+2016-07-18 03:54:22.142245|INFO    |ServerLibPriv |   |Using hardware aes
+2016-07-18 03:54:22.143346|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-07-18 03:54:22.143433|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2016-07-18 03:54:22.143788|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-07-18 03:54:22.172167|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2016-07-18 03:54:23.160568|INFO    |              |   |Puzzle precompute time: 946
+2016-07-18 03:54:23.162032|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2016-07-18 03:54:23.202721|INFO    |Query         |   |listening on 0.0.0.0:10011

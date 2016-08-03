@@ -1,0 +1,8 @@
+﻿2016-05-08 19:13:14.605195|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-05-08 19:13:14.605774|INFO    |VirtualServer |1  |client 'server'(id:0) added privilege key for servergroup 'Server Admin'(id:6)
+2016-05-08 19:13:14.605831|WARNING |VirtualServer |1  |--------------------------------------------------------
+2016-05-08 19:13:14.605867|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2016-05-08 19:13:14.605893|WARNING |VirtualServer |1  |token=8JTgULTgTed714VElgO0xl1MJFpCMdD+JAfld2VL
+2016-05-08 19:13:14.605897|WARNING |VirtualServer |1  |--------------------------------------------------------
+2016-05-08 19:14:28.251051|INFO    |VirtualServer |1  |client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2016-05-08 19:14:28.252940|INFO    |VirtualServer |1  |client 'Vinhi'(id:2) used privilege key '8JTgULTgTed714VElgO0xl1MJFpCMdD+JAfld2VL' and was added to servergroup 'Server Admin'(id:6)
