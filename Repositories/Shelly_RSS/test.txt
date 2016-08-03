@@ -1,0 +1,8 @@
+journalpaper.py
+log
+new_titles.txt
+output.txt
+requirements.txt
+sendmail.py
+test.txt
+venv

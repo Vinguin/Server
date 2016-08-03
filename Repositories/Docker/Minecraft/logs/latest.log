@@ -1,0 +1,16 @@
+[22:16:47] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[22:16:47] [Server thread/INFO]: Loading properties
+[22:16:47] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:47] [Server thread/INFO]: Generating keypair
+[22:16:47] [Server thread/INFO]: Starting Minecraft server on 37.120.167.86:25000
+[22:16:48] [Server thread/INFO]: Using epoll channel type
+[22:16:48] [Server thread/INFO]: Preparing level "world"
+[22:16:49] [Server thread/INFO]: Preparing start region for level 0
+[22:16:50] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:51] [Server thread/INFO]: Preparing spawn area: 42%
+[22:16:52] [Server thread/INFO]: Preparing spawn area: 75%
+[22:16:53] [Server thread/INFO]: Done (4.116s)! For help, type "help" or "?"
+[22:17:29] [Server Shutdown Thread/INFO]: Stopping server
+[22:17:29] [Server Shutdown Thread/INFO]: Saving players
+[22:17:29] [Server Shutdown Thread/INFO]: Saving worlds
+[22:17:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
